@@ -1,5 +1,5 @@
 # Weather App Python
- Simple Weather App in Python made using [openweathermap.org]((https://openweathermap.org)).
+ Simple Weather App in Python made using [openweathermap.org]((https://openweathermap.org))
  
 ### How to run the program :
  
